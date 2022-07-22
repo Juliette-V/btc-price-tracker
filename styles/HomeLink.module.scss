@@ -1,0 +1,8 @@
+.link{
+    font-size: 18px;
+    cursor: pointer;
+    &:hover,
+    &:active{
+        transform: scaleY(1.1)
+    }
+}
